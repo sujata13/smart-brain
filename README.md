@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+-->
+In this project I have created a __Smart-Brain App__.
+
+The frontend part of this app is developed using __React.js, HTML, CSS__ and __JS__.
+In this app users have to first register by giving there basic details and then can use this app. With the help of this app users can detect faces in any image by giving the url of image. Once the user signout he/she have to login using there email and password that they have set in order to access the app. 
