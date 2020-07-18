@@ -73,4 +73,4 @@ The frontend part of this app is developed using __React.js, HTML, CSS__ and __J
 
 In this app users have to first register by giving there basic details and then can use this app. With the help of this app users can detect faces in any image by giving the url of image. Once the user signout he/she have to login using there email and password that they have set in order to access the app. 
 
-I have deployed this project on Heroku. Link is given in the description feel free to check it out and give feedback.
+I have deployed this project on Heroku. Link is given in the about feel free to check it out and give feedback.
